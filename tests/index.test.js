@@ -11,8 +11,8 @@ const run = async() => {
         }
     });
 
-    await ig.likeTagsProcess(['podosfera'],10);
-    //await ig.likeBioProcess(['sararocha5444'],3,'Cool!!')
+    await ig.likeTagsProcess(['love'],10);
+    //await ig.likeBioProcess(['danilopastorr'],3,'Cool!!')
     /*await ig.sendMessage({
         username : 'danilopastorr',
         message: 'Opa, blza tudo bem!'

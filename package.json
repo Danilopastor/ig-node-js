@@ -1,0 +1,28 @@
+{
+  "name": "ig-node-js",
+  "version": "1.0.0",
+  "description": "automate tasks on instagram",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danilopastor/ig-node-js.git"
+  },
+  "keywords": [
+    "instagram",
+    "node",
+    "bot",
+    "instagram"
+  ],
+  "author": "Danilo Pastor <yguinho5@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Danilopastor/ig-node-js/issues"
+  },
+  "homepage": "https://github.com/Danilopastor/ig-node-js#readme"
+}
